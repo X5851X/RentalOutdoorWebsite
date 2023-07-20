@@ -4,17 +4,17 @@ Url admin: http://localhost/OutdoorWeb/admin
 Url hosting: https://outdoorw3b.000webhostapp.com/index.php
 
 ## Akun
-   Level   |     Username      | Password |
-:---------:|:-----------------:|:--------:|
- Admin     |  admin            | admin    |
- User      |  arial@gmail.com  | arial    |
+   Level   |     Username      | Password 
+:---------:|:-----------------:|:--------:
+ Admin     |  admin            | admin    
+ User      |  arial@gmail.com  | arial    
 
 ## Pengembang
                   4E - Informatika 
           Universitas Singaperbangsa Karawang
     Untuk memenuhi tugas akhir mata kuliah pemrograman berbasis web
 
-### Images
+### Website
 ![dashboard](sneakpeak/Img1.png)
 ![daftar produk](sneakpeak/Img2.png)
 ![produk](sneakpeak/Img3.png)
