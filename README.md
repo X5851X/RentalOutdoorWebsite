@@ -12,7 +12,7 @@ Url hosting: https://outdoorw3b.000webhostapp.com/index.php
 ## Pengembang
                         4E - Informatika 
              Universitas Singaperbangsa Karawang
-    Untuk memenuhi tugas akhir mata kuliah pemrograman berbasis web
+    untuk memenuhi tugas akhir mata kuliah pemrograman berbasis web
 
 ### Website
 ![dashboard](sneakpeak/Img1.png)
