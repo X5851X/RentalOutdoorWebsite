@@ -1,14 +1,13 @@
 # Website Rental Peralatan Outdoor 
 Url admin: http://localhost/OutdoorWeb/admin
+<br>
 Url hosting: https://outdoorw3b.000webhostapp.com/index.php
 
 ## Akun
---------------------------------------------
 |   Level   |     Username      | Password |
 |-----------+-------------------+----------|
 | Admin     |  admin            | admin    |
 | User      |  arial@gmail.com  | arial    |
---------------------------------------------
 
 ## Pengembang
                 4E - Informatika 
