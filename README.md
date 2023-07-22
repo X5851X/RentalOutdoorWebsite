@@ -10,9 +10,9 @@ Url hosting: https://outdoorw3b.000webhostapp.com/index.php
  User      |  arial@gmail.com  | arial    
 
 ## Pengembang
-                                                         4E - Informatika 
-                                                Universitas Singaperbangsa Karawang
-                                  untuk memenuhi tugas akhir mata kuliah pemrograman berbasis web
+                                                   4E - Informatika 
+                                            Universitas Singaperbangsa Karawang
+                              untuk memenuhi tugas akhir mata kuliah pemrograman berbasis web
 
 ### Gambaran Website
 ![dashboard](img/Img1.png)
